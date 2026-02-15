@@ -1,29 +1,14 @@
-# Python Automation Projects
+# File Renamer Script
 
-This repository contains simple Python automation scripts built to solve real-world tasks.
-
-## Projects Included
-
-### File Renamer Script
-A Python script that automatically renames all files inside a folder using a custom prefix while keeping original file extensions.
+This script renames all files inside a folder using a custom prefix.
 
 ## Features
-- Renames multiple files at once
-- Keeps original extensions
-- User input for folder path
-- Error handling included
+- Automatically renames multiple files
+- Keeps original file extensions
+- Simple and user-friendly
 
 ## How to Run
-
-1. Download or clone the repository
-2. Open terminal inside the project folder
-3. Run:
-
+1. Run the script:
    python file_renamer.py
-
-## Built With
-- Python 3
-
----
-
-More automation projects coming soon...
+2. Enter folder path
+3. Enter new prefix
