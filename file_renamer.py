@@ -1,12 +1,4 @@
-## File Renamer Script
-
-This script renames all files inside a folder using a custom prefix.
-
-### Features:
-- Automatically renames multiple files
-- Keeps original file extensions
-- Simple and user-friendly
-  import os
+import os
 
 def rename_files(folder_path, prefix):
     try:
